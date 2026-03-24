@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MeshMoment" parent="Theme.MaterialComponents.Light" />
+</resources>
